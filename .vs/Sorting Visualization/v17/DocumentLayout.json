@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lamthue\\Sorting Visualization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\ui\\slider.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\ui\\slider.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\ui\\dropdown.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\ui\\dropdown.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\ui\\button.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\ui\\button.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\ui\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\ui\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\core\\statistics.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\core\\statistics.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\core\\array_manager.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\core\\array_manager.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\core\\application.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\core\\application.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\core\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\core\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\sorting_algorithm.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\algorithms\\sorting_algorithm.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\quick_sort.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\algorithms\\quick_sort.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\merge_sort.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\algorithms\\merge_sort.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\bubble_sort.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\algorithms\\bubble_sort.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\algorithms\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\visualization\\visualizer.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\visualization\\visualizer.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\Sorting_Visualization.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:Sorting_Visualization.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\visualization\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\visualization\\__init__.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\visualization\\colors.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DC4A7C-3663-4EB5-A3D8-C136A14B8731}|Sorting Visualization.pyproj|solutionrelative:SortingVisualizer\\visualization\\colors.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "__init__.py (core)",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\core\\__init__.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\core\\__init__.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\core\\__init__.py",
+              "RelativeToolTip": "SortingVisualizer\\core\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:53:40.627Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "application.py",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\core\\application.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\core\\application.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\core\\application.py",
+              "RelativeToolTip": "SortingVisualizer\\core\\application.py",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:57:14.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sorting_Visualization.py",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\Sorting_Visualization.py",
+              "RelativeDocumentMoniker": "Sorting_Visualization.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\Sorting_Visualization.py",
+              "RelativeToolTip": "Sorting_Visualization.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T10:36:52.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sorting_algorithm.py",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\sorting_algorithm.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\algorithms\\sorting_algorithm.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\sorting_algorithm.py",
+              "RelativeToolTip": "SortingVisualizer\\algorithms\\sorting_algorithm.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:56:27.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "quick_sort.py",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\quick_sort.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\algorithms\\quick_sort.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\quick_sort.py",
+              "RelativeToolTip": "SortingVisualizer\\algorithms\\quick_sort.py",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:56:43.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "merge_sort.py",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\merge_sort.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\algorithms\\merge_sort.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\merge_sort.py",
+              "RelativeToolTip": "SortingVisualizer\\algorithms\\merge_sort.py",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:56:48.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bubble_sort.py",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\bubble_sort.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\algorithms\\bubble_sort.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\bubble_sort.py",
+              "RelativeToolTip": "SortingVisualizer\\algorithms\\bubble_sort.py",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:56:31.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "__init__.py (algorithms)",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\__init__.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\algorithms\\__init__.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\algorithms\\__init__.py",
+              "RelativeToolTip": "SortingVisualizer\\algorithms\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T10:58:52.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "array_manager.py",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\core\\array_manager.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\core\\array_manager.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\core\\array_manager.py",
+              "RelativeToolTip": "SortingVisualizer\\core\\array_manager.py",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:55:41.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "statistics.py",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\core\\statistics.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\core\\statistics.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\core\\statistics.py",
+              "RelativeToolTip": "SortingVisualizer\\core\\statistics.py",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:56:52.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "main.py",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\main.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\main.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\main.py",
+              "RelativeToolTip": "SortingVisualizer\\main.py",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:57:22.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "__init__.py (ui)",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\UI\\__init__.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\UI\\__init__.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\UI\\__init__.py",
+              "RelativeToolTip": "SortingVisualizer\\UI\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:54:28.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "button.py",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\UI\\button.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\UI\\button.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\UI\\button.py",
+              "RelativeToolTip": "SortingVisualizer\\UI\\button.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:57:00.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dropdown.py",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\UI\\dropdown.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\UI\\dropdown.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\UI\\dropdown.py",
+              "RelativeToolTip": "SortingVisualizer\\UI\\dropdown.py",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:57:09.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "slider.py",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\UI\\slider.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\UI\\slider.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\UI\\slider.py",
+              "RelativeToolTip": "SortingVisualizer\\UI\\slider.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:57:05.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "__init__.py (visualization)",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\visualization\\__init__.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\visualization\\__init__.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\visualization\\__init__.py",
+              "RelativeToolTip": "SortingVisualizer\\visualization\\__init__.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:54:02.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "visualizer.py",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\visualization\\visualizer.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\visualization\\visualizer.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\visualization\\visualizer.py",
+              "RelativeToolTip": "SortingVisualizer\\visualization\\visualizer.py",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:56:22.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "colors.py",
+              "DocumentMoniker": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\visualization\\colors.py",
+              "RelativeDocumentMoniker": "SortingVisualizer\\visualization\\colors.py",
+              "ToolTip": "D:\\lamthue\\Sorting Visualization\\SortingVisualizer\\visualization\\colors.py",
+              "RelativeToolTip": "SortingVisualizer\\visualization\\colors.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-09-08T09:54:41.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
